@@ -70,6 +70,14 @@ Chúc bạn thành công khi tích hợp thanh toán online vào hệ thống c�
 
 ---
 
+## Thử Nghiệm API với Postman
+
+Để kiểm tra và thử nghiệm API, bạn có thể sử dụng **Postman**. Truy cập vào liên kết sau để tham gia nhóm thử nghiệm:
+
+[Tham gia nhóm thử nghiệm Postman](https://app.getpostman.com/join-team?invite_code=d2655920721f4f62659d76a0970f9600&target_code=2ffee7afc7215cab774edc3bd5779c96)
+
+---
+
 ## Programmer
 **Nguyễn Sao**  
   - [Facebook](https://www.facebook.com/profile.php?id=100070104164297)
